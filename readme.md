@@ -119,14 +119,3 @@ The unit tests can be found nested inside the test directory
 
 - [ ] Deployment of the API on PostMan
 
-## Badges
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-## Creator
-
-- [@Nimesh Johari](https://www.github.com/NimeshJohari02)
-
-## Screenshots
-
-Screenshots for the same can be found under the Images sub-folder inside the repository.
